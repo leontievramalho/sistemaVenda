@@ -1,0 +1,15 @@
+{
+  "usuarios": [
+    {
+      "nome": "Powder",
+      "cpf": "892.893.828-32",
+      "telefone": "(73) 27666-2636",
+      "email": "fishbones@gmail.com",
+      "genero": "Feminino",
+      "nascimento": "01/01/2001",
+      "senha": "",
+      "confirmarSenha": "",
+      "id": "2b05"
+    }
+  ]
+}
